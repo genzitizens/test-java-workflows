@@ -8,7 +8,7 @@ on:
 
 jobs:
   java-ci:
-    uses: genzitizens/ci-templates/.github/workflows/java-ci.yml@main
+    uses: genzitizens/ci-templates/.github/workflows/java-ci-no-install.yml@main
     secrets:
         DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
   
