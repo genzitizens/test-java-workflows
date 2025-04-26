@@ -4,7 +4,6 @@
 #### Note      : This is just for my own personal learning of SpringBatch, I am going to use my Expense CSV File <br> to learn how to process CSV Files and 
 
 
-test edit trigger GPO
 #### Folder Structure : 
 ````
 src/main/java/com/example/expense/
